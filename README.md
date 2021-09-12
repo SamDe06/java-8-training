@@ -1,2 +1,2 @@
-# java-8-training
+# java-training
 Java HandsOn
